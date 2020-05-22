@@ -1,0 +1,6 @@
+framework module Pods_DownloadImageSaveDirectory {
+  umbrella header "Pods-DownloadImageSaveDirectory-umbrella.h"
+
+  export *
+  module * { export * }
+}
